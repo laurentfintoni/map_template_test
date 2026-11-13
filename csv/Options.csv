@@ -1,0 +1,22 @@
+Setting,Customize,Hints
+Storymap Info,,Section heading: do not edit this row
+Storymap Title,Ravenna: four monuments (sample),The title of your map
+Storymap Subtitle,Replace this sample with your own story<br><small>Scroll down <i class='fa fa-chevron-down'></i></small>,Subtitle shown under the title (or leave blank)
+Storymap Logo,,Optional: path to a logo image such as media/logo.png (or leave blank)
+Google Analytics Tracking ID,,Leave blank
+Map Settings,,Section heading: do not edit this row
+Basemap Tiles,OpenStreetMap.Mapnik,OpenStreetMap.Mapnik needs no API key. Optional: CartoDB.Positron (then you need your own free key in the next row)
+Basemap Tiles API Key,,Leave blank for OpenStreetMap. Only for CartoDB basemaps: paste your own free key from https://carto.com/basemaps/apikey/
+Zoom Controls,bottomright,"topleft, topright, bottomleft, bottomright, or off"
+Narrative Background Color,,Optional: a colour name or hex code such as #f5f5f5
+Narrative Text Color,,Optional
+Narrative Link Color,,Optional
+Active Chapter Background Color,,Optional
+Media Container Height,300,"Maximum height of images, in pixels"
+Pixels After Final Chapter,600,"Empty space after the last chapter, in pixels (at least 100)"
+Enable Lightbox for Images,yes,yes or no: click on an image to enlarge it
+Credits,,Section heading: do not edit this row
+Author Name,Add your names,"Appears in the map credits as ""View data by..."""
+Author Email or Website,,Optional: makes the author name a link
+Author GitHub Repo Link,https://github.com/YOUR-USERNAME/YOUR-REPO,"The address of your repository: appears as ""View code"""
+Code Credit,"<a href=""https://handsondataviz.org"">HandsOnDataViz</a>",Credit for the original template: please keep
